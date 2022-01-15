@@ -50,7 +50,6 @@
 .p-chat__reverse {
   display: flex;
   flex-direction: row-reverse;
-  justify-content: flex-end;
   padding-right: 0 !important;
 }
 

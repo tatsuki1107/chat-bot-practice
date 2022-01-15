@@ -17,7 +17,7 @@ const App = () => {
   const [open, setOpen] = useState(false);
 
   const handleClickOpen = () => {
-    setOpen(true);
+    setOpen(true)
   };
 
   const handleClose = useCallback(() => {
